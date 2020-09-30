@@ -1,0 +1,69 @@
+{
+    "assn1.html": [
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Sep 30 2020 12:16:40",
+            "keyStrokeInfo": "<",
+            "position": "4,15"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Sep 30 2020 12:16:41",
+            "keyStrokeInfo": "e",
+            "position": "4,16"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Sep 30 2020 12:16:41",
+            "keyStrokeInfo": "m",
+            "position": "4,17"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Sep 30 2020 12:16:41",
+            "keyStrokeInfo": ">",
+            "position": "4,18"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Sep 30 2020 12:16:41",
+            "keyStrokeInfo": "</em>",
+            "position": "4,19"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Sep 30 2020 12:16:48",
+            "keyStrokeInfo": "",
+            "position": "4,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Sep 30 2020 12:16:53",
+            "keyStrokeInfo": "</em>",
+            "position": "4,37"
+        }
+    ],
+    "fitness.css": [
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Sep 30 2020 12:17:34",
+            "keyStrokeInfo": "",
+            "position": "2,26"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Sep 30 2020 12:17:36",
+            "keyStrokeInfo": "3",
+            "position": "2,26"
+        }
+    ]
+}
