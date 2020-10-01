@@ -1,10 +1,10 @@
 h1{
-    color:rgb(236, 217, 43);
+    color: rgb(250, 187, 70);
     text-align: center;
 }
 body{
     background-color:rgba(0, 0, 0);
-    margin : 25px 30px 30px 50px;
+    margin : 60px 60px 60px 85px;
 }
 p,table{
     color:white;
@@ -19,7 +19,8 @@ ol{
 li{
     color:white;
     list-style-type: circle;
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
 }
 h2{
     color:rgb(236, 222, 97)
@@ -30,14 +31,15 @@ th{
     font-style: italic;
 }
 table,th,td{
-    border: 1px solid white;
+    border: 0.1px solid white;
 }
 td{
     text-align: center;
 }
-thead{
+h3{
     color: rgb(56, 182, 88);
     font-size: large;
+    font-style: italic;
 }
 table{
     height: 110%;
