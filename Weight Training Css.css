@@ -1,0 +1,24 @@
+table,th,td{
+    border: 0.1px solid white;
+}
+td{
+    text-align: center;
+}
+table{
+    height: 110%;
+    width : 110%
+}
+th{
+    color: rgb(56, 182, 88);
+    font-size: large;
+    font-style: italic;
+}
+h1{
+    font-size: xx-large;
+   text-align: center;
+}
+h3{
+    color: rgb(56, 182, 88);
+    font-size: large;
+    font-style: italic;
+}
