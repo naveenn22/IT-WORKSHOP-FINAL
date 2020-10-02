@@ -1,0 +1,9 @@
+body{
+    background-color: white;
+    margin : 100px 120px 120px 100px;
+}
+h1,li{
+    background-color: rgb(255, 136, 136);
+    text-align: center;
+    background-size:   125%;
+}
