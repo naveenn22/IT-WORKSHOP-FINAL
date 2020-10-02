@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin : 50px 100px 60px 100px;
+    font-size: large;
+}
+h1{
+text-align: center;
+}
+#protlist{
+    background-color:rgb(181, 253, 253);
+}
+#fatlist{
+    background-color: rgb(253, 200, 103);
+}
