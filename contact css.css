@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    margin : 60px 60px 60px 85px;
+    font-size: large;
+}
+p{
+    color:white;
+}
+H1,h2,h3{
+    color:rgb(236, 222, 97)
+}
+h4,h5{
+    color: rgb(56, 151, 80);
+}
+
+h1 {
+  text-align: center;
+}
+#footer {
+	height: 40px;
+	background-color: #69D2E7;
+	clear:both;
+    font-family:Open Sans;
+}
+
+#footer a {
+  display: list-item;
+  margin-right: 5px;
+}
+
+
