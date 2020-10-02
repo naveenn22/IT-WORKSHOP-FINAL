@@ -11,7 +11,7 @@ p{
 }
 
 a{
-    color:rgb(144, 201, 183);
+    color:rgb(112, 209, 178);
 }
 ol{
     color:rgb(253, 139, 244);
@@ -22,9 +22,9 @@ li{
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
 }
-h2{
+h2,h3{
     color:rgb(236, 222, 97)
 }
 #types{
-    color: rgb(56, 182, 88);
+    color: rgb(56, 151, 80);
 }
